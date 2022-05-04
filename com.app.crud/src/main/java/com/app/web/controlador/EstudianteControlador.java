@@ -132,4 +132,14 @@ public class EstudianteControlador {
 	public void hola_mundo_10 () {
 		System.out.println("hola mundo");
 	}
+	
+	
+	// prueta de martes   con comandos git
+	public void hola_mundo_11 () {
+		System.out.println("hola mundo");
+	}
+	
+	public void hola_mundo_12 () {
+		System.out.println("hola mundo");
+	}
 }

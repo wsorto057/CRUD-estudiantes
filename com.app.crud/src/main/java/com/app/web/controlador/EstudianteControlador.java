@@ -141,4 +141,13 @@ public class EstudianteControlador {
 		public void hola_mundo_12 () {
 			System.out.println("hola mundo");
 		}
+		
+		// prueba con cambio de ramas
+				public void hola_mundo_13 () {
+					System.out.println("hola mundo");
+				}
+				
+				public void hola_mundo_14 () {
+					System.out.println("hola mundo");
+				}
 }
